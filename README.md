@@ -1,1 +1,1 @@
-# config-base
+# config-base for spring cloud config service learning.
